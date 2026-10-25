@@ -1,0 +1,11 @@
+name = "MMG NBC Pouch AntyChem Extension & Fix";
+picture = "MMG_NBC_AntyChem_Extension/gui/logo/nbc_logo.paa";
+logo = "MMG_NBC_AntyChem_Extension/gui/logo/nbc_logo.paa";
+logoSmall = "MMG_NBC_AntyChem_Extension/gui/logo/nbc_logo.paa";
+logoOver = "MMG_NBC_AntyChem_Extension/gui/logo/nbc_logo_over.paa";
+tooltip = "MMG NBC Pouch AntyChem Extension & Fix";
+overview = "Adds a PO-X Antidote slot and optional slots for Chelating Tablets and a spare gas mask filter to the NBC Pouch of MMG - Mightys Military Gear.";
+action = "https://github.com/TryHackX/dayz-mmg-nbc-pouch-extension";
+author = "TryHackX";
+authorID = "76561199846115789";
+version = "1.1";
