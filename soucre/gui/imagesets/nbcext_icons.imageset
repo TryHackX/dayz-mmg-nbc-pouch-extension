@@ -1,0 +1,18 @@
+ImageSetClass {
+ Name "nbcext_icons"
+ RefSize 256 256
+ Textures {
+  ImageSetTextureClass {
+   mpix 1
+   path "MMG_NBC_AntyChem_Extension/gui/imagesets/nbcext_icons.edds"
+  }
+ }
+ Images {
+  ImageSetDefClass chelating {
+   Name "chelating"
+   Pos 0 0
+   Size 256 256
+   Flags 0
+  }
+ }
+}
