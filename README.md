@@ -2,7 +2,7 @@
 
 Adds a PO-X Antidote slot and optional slots for Chelating Tablets and a spare gas mask filter to the NBC Pouch of MMG - Mightys Military Gear. For DayZ 1.30 (Badlands).
 
-[Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3337677672) · DayZ 1.30 (Badlands) · author: TryHackX
+[Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3827411139) · DayZ 1.30 (Badlands) · author: TryHackX
 
 ## Support
 
